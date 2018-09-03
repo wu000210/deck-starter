@@ -1,7 +1,5 @@
 # Deck
 
-This repository contains a completed version of the Deck of Cards example.
-
 ## Objective
 For this exercise you will be practicing creating HTML using PHP array and loops by generating and displaying cards from a standard deck on the page.
 
