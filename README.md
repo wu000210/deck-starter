@@ -8,9 +8,9 @@ For this exercise you will be practicing creating HTML using PHP array and loops
 ## Requirements
 Complete the following tasks:
 
-1. Using arrays, loops, and the files provided generate all 52 cards of a deck.
-3. Use the `shuffle()` function to generate all 52 cards of a deck in a random order.
-2. Use the `rand()` function to randomly generate 52 cards 
-
+1. Convert the **index.html** file to be a PHP file.
+2. Using arrays, loops, and the file provided complete the tasks below. Provide comments and pseudo code on how to solve each problem, what methods will be used, and why.
+    1. Generate all 52 cards of a deck.
+    2. Use the `rand()` function to generate 52 random cards 
 
 
